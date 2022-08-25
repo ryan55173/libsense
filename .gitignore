@@ -1,0 +1,10 @@
+
+# Ignore logs and scripts
+*.log
+*.sh
+
+# Ignore testing directory
+**/test
+
+# Ignore files with test in the name
+*test*
