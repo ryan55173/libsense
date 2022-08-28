@@ -1,5 +1,6 @@
 
 # Ignore logs and scripts
+*.txt
 *.log
 *.sh
 
