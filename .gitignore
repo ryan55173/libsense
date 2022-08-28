@@ -1,3 +1,5 @@
+# Ignore self
+*.gitignore
 
 # Ignore logs and scripts
 *.txt
